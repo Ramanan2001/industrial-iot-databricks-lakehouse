@@ -206,7 +206,7 @@ For larger production datasets, additional techniques such as partitioning and D
 
 Gold-layer KPIs are visualized using a **Databricks AI/BI Dashboard**.
 
-![Industrial IoT Monitoring Dashboard](images/dashboard.png)
+![Industrial IoT Monitoring Dashboard](images/Dashboard.png)
 
 The dashboard includes:
 

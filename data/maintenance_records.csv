@@ -1,0 +1,61 @@
+MaintenanceID,MachineID,MaintenanceDate,MaintenanceType,DowntimeHours,Cost,TechnicianStatus
+MT-P101-01,P101,2026-07-19,Inspection,6.6,16055,Follow-up Required
+MT-P101-02,P101,2026-08-17,Preventive Maintenance,2.8,14947,Completed
+MT-P101-03,P101,2026-07-02,Inspection,7.6,11461,Follow-up Required
+MT-P102-01,P102,2026-07-05,Seal Replacement,1.3,9848,Completed
+MT-P102-02,P102,2026-06-16,Lubrication,2.0,14960,Completed
+MT-P102-03,P102,2026-06-10,Bearing Check,4.9,13834,Follow-up Required
+MT-P103-01,P103,2026-08-17,Inspection,3.0,8656,Follow-up Required
+MT-P103-02,P103,2026-07-11,Bearing Check,5.9,23979,Completed
+MT-P103-03,P103,2026-08-02,Preventive Maintenance,4.9,22688,Completed
+MT-P104-01,P104,2026-07-11,Preventive Maintenance,4.4,2491,Completed
+MT-P104-02,P104,2026-07-22,Preventive Maintenance,1.6,5127,Completed
+MT-P104-03,P104,2026-07-28,Bearing Check,7.6,20094,Completed
+MT-P105-01,P105,2026-07-29,Preventive Maintenance,6.9,3011,Completed
+MT-P105-02,P105,2026-07-06,Lubrication,1.1,16269,Completed
+MT-P105-03,P105,2026-08-14,Preventive Maintenance,6.1,18012,Completed
+MT-T101-01,T101,2026-07-26,Inspection,3.5,22512,Completed
+MT-T101-02,T101,2026-07-22,Bearing Check,4.1,17614,Completed
+MT-T101-03,T101,2026-07-03,Seal Replacement,2.2,11789,Follow-up Required
+MT-T102-01,T102,2026-07-04,Bearing Check,1.5,22979,Completed
+MT-T102-02,T102,2026-07-16,Lubrication,2.4,20177,Completed
+MT-T102-03,T102,2026-07-02,Seal Replacement,4.1,12248,Completed
+MT-T103-01,T103,2026-06-23,Seal Replacement,5.8,16079,Completed
+MT-T103-02,T103,2026-07-23,Lubrication,4.1,17428,Completed
+MT-T103-03,T103,2026-07-10,Preventive Maintenance,4.6,14209,Completed
+MT-T104-01,T104,2026-07-31,Preventive Maintenance,1.0,1793,Completed
+MT-T104-02,T104,2026-08-08,Inspection,3.4,2010,Completed
+MT-T104-03,T104,2026-07-22,Lubrication,7.9,2779,Follow-up Required
+MT-T105-01,T105,2026-06-01,Bearing Check,7.6,3092,Completed
+MT-T105-02,T105,2026-08-18,Preventive Maintenance,2.7,5184,Completed
+MT-T105-03,T105,2026-06-11,Bearing Check,7.2,6672,Completed
+MT-C101-01,C101,2026-06-21,Bearing Check,5.9,23462,Completed
+MT-C101-02,C101,2026-07-07,Inspection,7.7,13168,Completed
+MT-C101-03,C101,2026-07-31,Preventive Maintenance,1.5,22575,Follow-up Required
+MT-C102-01,C102,2026-06-08,Bearing Check,4.6,12104,Follow-up Required
+MT-C102-02,C102,2026-08-09,Preventive Maintenance,7.6,23155,Completed
+MT-C102-03,C102,2026-07-22,Lubrication,7.4,8410,Follow-up Required
+MT-C103-01,C103,2026-08-05,Preventive Maintenance,7.0,13170,Completed
+MT-C103-02,C103,2026-07-11,Inspection,5.6,14688,Completed
+MT-C103-03,C103,2026-07-11,Seal Replacement,3.6,6772,Completed
+MT-C104-01,C104,2026-08-09,Inspection,6.2,5696,Completed
+MT-C104-02,C104,2026-07-21,Lubrication,4.6,18047,Completed
+MT-C104-03,C104,2026-07-06,Preventive Maintenance,3.4,21612,Follow-up Required
+MT-C105-01,C105,2026-06-14,Bearing Check,3.4,5236,Completed
+MT-C105-02,C105,2026-07-15,Lubrication,3.6,19990,Completed
+MT-C105-03,C105,2026-07-13,Seal Replacement,5.4,20981,Completed
+MT-M101-01,M101,2026-07-08,Bearing Check,3.7,7834,Completed
+MT-M101-02,M101,2026-07-07,Bearing Check,3.2,21848,Completed
+MT-M101-03,M101,2026-07-11,Inspection,5.9,16427,Completed
+MT-M102-01,M102,2026-07-30,Seal Replacement,1.1,2000,Completed
+MT-M102-02,M102,2026-07-14,Preventive Maintenance,3.9,24751,Completed
+MT-M102-03,M102,2026-07-06,Seal Replacement,6.0,24515,Completed
+MT-M103-01,M103,2026-08-16,Lubrication,4.7,12783,Completed
+MT-M103-02,M103,2026-06-30,Lubrication,1.7,20382,Completed
+MT-M103-03,M103,2026-07-13,Seal Replacement,4.9,11557,Follow-up Required
+MT-M104-01,M104,2026-06-13,Preventive Maintenance,1.2,3593,Follow-up Required
+MT-M104-02,M104,2026-08-01,Preventive Maintenance,3.5,18065,Completed
+MT-M104-03,M104,2026-06-06,Seal Replacement,4.4,5550,Follow-up Required
+MT-M105-01,M105,2026-07-21,Lubrication,4.3,15104,Follow-up Required
+MT-M105-02,M105,2026-08-01,Bearing Check,0.9,9732,Completed
+MT-M105-03,M105,2026-07-06,Inspection,2.8,2348,Follow-up Required

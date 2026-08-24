@@ -1,0 +1,11 @@
+File,Column,Description
+sensor_readings.csv,MachineID,Equipment identifier
+sensor_readings.csv,ReadingTime,Hourly sensor timestamp
+sensor_readings.csv,Temperature,Temperature in C; intentional nulls/outliers included
+sensor_readings.csv,Pressure,Pressure; intentional nulls/outliers included
+sensor_readings.csv,Flow,Flow measurement
+sensor_readings.csv,Vibration,Vibration; intentional outliers included
+equipment_master.csv,EquipmentType,"Pump, Tank, Compressor, or Motor"
+equipment_master.csv,Plant,"Plant-A, Plant-B, or Plant-C"
+maintenance_records.csv,DowntimeHours,Maintenance downtime
+maintenance_records.csv,Cost,Maintenance cost
